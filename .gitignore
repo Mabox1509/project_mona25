@@ -1,0 +1,19 @@
+# GameMaker specific files to ignore
+*.resource_order
+options/
+___yyp_maker_trash/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# GMLive files (if using GMLive)
+*GMLive*
+obj_gmlive*
+
+# Stitch files (if using Stitch)
+.stitch
+stitch.config.json
+tmp
